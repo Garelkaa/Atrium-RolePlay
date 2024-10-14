@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Run Server": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Games\\GTA5RP\\RageMP\\server-files\\ragemp-server.exe",
+      "workingDirectory": "C:\\Games\\GTA5RP\\RageMP\\server-files"
+    }
+  }
+}

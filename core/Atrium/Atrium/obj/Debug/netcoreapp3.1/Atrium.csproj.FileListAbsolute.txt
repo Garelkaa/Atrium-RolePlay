@@ -1,0 +1,4 @@
+C:\Games\GTA5RP\RageMP\server-files\core\Atrium\Atrium\obj\Debug\netcoreapp3.1\Atrium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\GTA5RP\RageMP\server-files\core\Atrium\Atrium\obj\Debug\netcoreapp3.1\Atrium.AssemblyInfoInputs.cache
+C:\Games\GTA5RP\RageMP\server-files\core\Atrium\Atrium\obj\Debug\netcoreapp3.1\Atrium.AssemblyInfo.cs
+C:\Games\GTA5RP\RageMP\server-files\core\Atrium\Atrium\obj\Debug\netcoreapp3.1\Atrium.csproj.CoreCompileInputs.cache

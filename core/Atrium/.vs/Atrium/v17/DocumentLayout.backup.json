@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Games\\GTA5RP\\RageMP\\server-files\\core\\Atrium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\GTA5RP\\RageMP\\server-files\\core\\Atrium\\Atrium\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Atrium\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDDC356-ED82-4C86-B01D-ECA402910093}|Atrium\\Atrium.csproj|c:\\games\\gta5rp\\ragemp\\server-files\\core\\atrium\\atrium\\atrium.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2BDDC356-ED82-4C86-B01D-ECA402910093}|Atrium\\Atrium.csproj|solutionrelative:atrium\\atrium.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Atrium",
+              "DocumentMoniker": "C:\\Games\\GTA5RP\\RageMP\\server-files\\core\\Atrium\\Atrium\\Atrium.csproj",
+              "RelativeDocumentMoniker": "Atrium\\Atrium.csproj",
+              "ToolTip": "C:\\Games\\GTA5RP\\RageMP\\server-files\\core\\Atrium\\Atrium\\Atrium.csproj",
+              "RelativeToolTip": "Atrium\\Atrium.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T07:50:40.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Games\\GTA5RP\\RageMP\\server-files\\core\\Atrium\\Atrium\\Program.cs",
+              "RelativeDocumentMoniker": "Atrium\\Program.cs",
+              "ToolTip": "C:\\Games\\GTA5RP\\RageMP\\server-files\\core\\Atrium\\Atrium\\Program.cs",
+              "RelativeToolTip": "Atrium\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:45:34.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
