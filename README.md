@@ -1,6 +1,6 @@
 # Atrium RP — Український GTA 5 Role Play сервер
 
-![Atrium RP Logo](https://imgur.com/a/vmwpVSa)
+![Atrium RP Logo](https://i.imgur.com/kfwPIbD.jpeg)
 
 ## Опис проекту
 
